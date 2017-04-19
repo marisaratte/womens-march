@@ -1,0 +1,53 @@
+
+h1 {
+  color:#fff
+}
+
+h2 {
+ color:#c39
+ }
+
+.About a {
+   color:#
+   }
+
+.Organizors a {
+   color:#c39
+ }
+
+.Partnerships a {
+   color:#c39
+ }
+
+.International a {
+   color:#c39
+}
+
+body{
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+
+#top {
+  background-color: #c69;
+  padding: 1em;
+}
+
+#about {
+  background-color: #936;
+  padding: 1em;
+}
+
+#organizors {
+  background-color: #69c;
+  padding: 1em;
+}
+
+#partnerships {
+  background-color: #936;
+  padding: 1em;
+}
+
+#international {
+  background-color: #c69;
+  padding: 1em;
+}
